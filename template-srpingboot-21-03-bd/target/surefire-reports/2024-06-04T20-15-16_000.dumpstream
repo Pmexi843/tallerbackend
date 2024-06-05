@@ -1,0 +1,5 @@
+# Created at 2024-06-04T20:15:17.718
+Boot Manifest-JAR contains absolute paths in classpath 'D:\LAPTOP\DESCARGAS\template-srpingboot-21-03-bd\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
